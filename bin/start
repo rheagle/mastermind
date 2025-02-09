@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+require_relative "../mastermind"
+
+# Run the program
+#puts "Launching Mastermind..."
